@@ -1,10 +1,10 @@
 [submodule "src/openvpn-gui"]
 	path = src/openvpn-gui
-	url = https://github.com/OpenVPN/openvpn-gui.git
+	url = https://github.com/YunExCom/openvpn-gui.git
 	branch = master
 [submodule "src/openvpn"]
 	path = src/openvpn
-	url = https://github.com/OpenVPN/openvpn.git
+	url = https://github.com/YunExCom/openvpn.git
 	branch = master
 [submodule "src/vcpkg"]
 	path = src/vcpkg
